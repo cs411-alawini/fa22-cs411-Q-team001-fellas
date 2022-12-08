@@ -20,8 +20,8 @@
 | Info       | Description    |
 | ---------- | -------------- |
 | Title      | FamilyHub      |
-| System URL | link_to_system |
-| Video Link | link_to_video  |
+| System URL | https://familyhub.vercel.app/ |
+| Video Link | https://drive.google.com/file/d/1PpN0eLISGuUzQXTYvWvLVaC5b8_k9IFI/view?usp=share_link  |
 
 ## Project Summary
 
